@@ -258,7 +258,7 @@ span {
 
 #home .hero-img img {
   width: 100%;
-  background-color: transparent; /* This will remove the white background */
+  /* background-color: transparent; This will remove the white background */
 }
 
 #home .social-icons {
